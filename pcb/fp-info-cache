@@ -1,4 +1,4 @@
-21823364628873919
+21826728104331453
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89691,6 +89691,13 @@ varistor
 2
 2
 ergodonk_kicad_library
+2.54 gird
+
+
+0
+0
+0
+ergodonk_kicad_library
 ALL LOWs
 
 
@@ -89732,6 +89739,13 @@ AST1109MLTRQ CANTOR MX
 0
 6
 2
+ergodonk_kicad_library
+Amoeba_MountingHole_2.2mm_M2_DIN965_Pad_TopOnly
+Mounting Hole 2.2mm, M2, DIN965
+mounting hole 2.2mm m2 din965
+0
+1
+1
 ergodonk_kicad_library
 ArduinoProMicro-ZigZag-USB-C
 
