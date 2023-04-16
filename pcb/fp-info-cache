@@ -1,4 +1,4 @@
-21816638233999536
+21823364628873919
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90517,6 +90517,20 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_2u_Vertical
 32
 6
 ergodonk_kicad_library
+amoeba_executive_4pinn_conn
+
+
+0
+4
+4
+ergodonk_kicad_library
+amoeba_executive_5pinn_conn
+
+
+0
+5
+5
+ergodonk_kicad_library
 amoeba_executive_V1
 
 
@@ -90525,6 +90539,20 @@ amoeba_executive_V1
 6
 ergodonk_kicad_library
 amoeba_executive_V2
+
+
+0
+11
+6
+ergodonk_kicad_library
+amoeba_executive_V3
+
+
+0
+13
+6
+ergodonk_kicad_library
+amoeba_executive_V4
 
 
 0

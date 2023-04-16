@@ -4,7 +4,7 @@
 Ameoba Single key PCB variant designed for simplicity.
 
 The amoeba pcb family is often used in ergonamic split keyboards. 
-Most amoeba variants are overly complex. This variant leverages the parallel relationship of rows, columns, and the VCC & GND nets to simplify the layout. 
+Most amoeba variants are overly complex and difficult to solder. This variant leverages the parallel relationship of rows, columns, and the VCC & GND nets to simplify the layout. Adds support for SMD or through-hole diodes.
 
 Designed for staggered pin soldering and jumper wire connections for super easy builds.
 
@@ -15,5 +15,6 @@ Designed for staggered pin soldering and jumper wire connections for super easy 
 * Should via go through the pad?
 * Migrate footprint and symbol libraries
 * add credit for sofle symbols.
+* Add 2.2 mm screw holes on corners?
 
 ![Cantor ChocV2 Keyboard v1.3](images/amoeba_executive.png)
