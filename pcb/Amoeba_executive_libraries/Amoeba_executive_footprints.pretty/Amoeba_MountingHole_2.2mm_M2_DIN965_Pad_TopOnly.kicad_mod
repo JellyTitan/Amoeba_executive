@@ -1,0 +1,15 @@
+(footprint "Amoeba_MountingHole_2.2mm_M2_DIN965_Pad_TopOnly" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Mounting Hole 2.2mm, M2, DIN965")
+  (tags "mounting hole 2.2mm m2 din965")
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b04b8a31-ce2d-486e-876a-6e7e2fc2ce1d)
+  )
+  (fp_text value "Amoeba_MountingHole_2.2mm_M2_DIN965_Pad_TopOnly" (at 0 2.9) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7c9f368b-132a-48df-9ae8-20413991b5d4)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 2.1 2.1) (drill 2.1) (layers "F&B.Cu" "*.Mask") (tstamp 949f2f2f-e88f-4142-aed0-64c4cb342c9d))
+)

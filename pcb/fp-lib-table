@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Amoeba_executive_footprints")(type "KiCad")(uri "${KIPRJMOD}/Amoeba_executive_libraries/Amoeba_executive_footprints.pretty")(options "")(descr ""))
+)

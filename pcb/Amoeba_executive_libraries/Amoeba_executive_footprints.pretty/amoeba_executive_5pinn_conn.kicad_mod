@@ -1,0 +1,26 @@
+(footprint "amoeba_executive_5pinn_conn" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -1.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp eb431f76-de88-4c40-9596-b492ecb8c62c)
+  )
+  (fp_text value "amoeba_executive_5pinn_conn" (at 0 1.76 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 77eec5c5-dd17-4051-9aeb-5cbc4d760f88)
+  )
+  (pad "1" thru_hole circle (at -5.08 -0.1286 180) (size 1.75 1.75) (drill 1) (layers "*.Cu" "F.Mask") (tstamp 287022e4-f382-4f13-90f5-0284b9a4c39b))
+  (pad "2" thru_hole circle (at -2.54 0.1286 180) (size 1.75 1.75) (drill 1) (layers "*.Cu" "F.Mask") (tstamp 4f43e68f-8b5a-4191-9e9a-e00ea8f12033))
+  (pad "3" thru_hole circle (at 0 -0.1286 180) (size 1.75 1.75) (drill 1) (layers "*.Cu" "F.Mask") (tstamp b23fd9f9-1d49-4be4-bc55-e9072b51ae94))
+  (pad "4" thru_hole circle (at 2.54 0.1286 180) (size 1.75 1.75) (drill 1) (layers "*.Cu" "F.Mask") (tstamp 845c1726-8258-4591-a86f-6d93d9f193e0))
+  (pad "5" thru_hole circle (at 5.08 -0.1286 180) (size 1.75 1.75) (drill 1) (layers "*.Cu" "F.Mask") (tstamp 457b9566-c502-4467-b781-6e84cdaaa87f))
+  (group "" (id cb97bdb8-f1c6-49d1-99af-4e34d5997f24)
+    (members
+      287022e4-f382-4f13-90f5-0284b9a4c39b
+      457b9566-c502-4467-b781-6e84cdaaa87f
+      4f43e68f-8b5a-4191-9e9a-e00ea8f12033
+      845c1726-8258-4591-a86f-6d93d9f193e0
+      b23fd9f9-1d49-4be4-bc55-e9072b51ae94
+    )
+  )
+)
