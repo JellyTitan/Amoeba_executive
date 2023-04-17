@@ -1,0 +1,38 @@
+(footprint "pad-arrow-square-silks" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "pad-arrow-square" (at 0 -3.797653) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.3048)))
+    (tstamp e9776228-70e2-4b70-a31e-0db0e629e794)
+  )
+  (fp_text value "G***" (at 0 3.797653) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.3048)))
+    (tstamp 69203698-f6e9-4218-9a90-2add9dc69fac)
+  )
+  (fp_poly
+    (pts
+      (xy -1.053924 0.749653)
+      (xy -1.053924 -0.749653)
+      (xy 0.445382 -0.749653)
+      (xy 0.754063 -0.379236)
+      (xy 1.053924 0)
+      (xy 0.754063 0.370417)
+      (xy 0.445382 0.749653)
+      (xy -1.053924 0.749653)
+    )
+
+    (stroke (width 0.00254) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 1cf704e3-dce3-4f9c-9772-2d754738427d))
+  (fp_poly
+    (pts
+      (xy -1.053924 0.749653)
+      (xy -1.053924 -0.749653)
+      (xy 0.445382 -0.749653)
+      (xy 0.754063 -0.379236)
+      (xy 1.053924 0)
+      (xy 0.754063 0.370417)
+      (xy 0.445382 0.749653)
+      (xy -1.053924 0.749653)
+    )
+
+    (stroke (width 0.00254) (type solid)) (fill solid) (layer "F.Mask") (tstamp 09ac3205-79bb-4c97-b132-c9490319a0a9))
+)
